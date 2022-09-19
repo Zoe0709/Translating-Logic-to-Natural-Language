@@ -1,5 +1,3 @@
-By Wednesday, March 9, you have to submit to the GitLab repository a plan with (1) a description of the project, (2) all the resources to be used (textbooks, manuals, software, articles, etc.), (3) division of work, (4) weekly schedule. The project plan should have 2 - 3 pages. Use markdown, not Word; use LaTeX only if you need the math features. All group members have to commit to the repository for the plan to receive a grade. The description has to elaborate on the problem, how the implementation will be tested and measured (if efficiency is the goal), how it will be documented, and what insight you hope to gain from it. You will receive feedback on the project plan.
-
 # COMPSCI 4TB3 Group 19 Final Project Plan
 
 
